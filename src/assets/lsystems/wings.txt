@@ -1,0 +1,7 @@
+FX
+4
+F FF
+X [-Y][+Z]FFX
+Y F+Y[Y][-FY]F[+Y]F[---Y]
+Z F-Z[Z][+FZ]F[-Z]F[+++Z]
+10
