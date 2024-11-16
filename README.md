@@ -2,7 +2,7 @@
 
 This project provides an implementation of **L-systems** (Lindenmayer systems) using **Python** and **Pygame**. L-systems are a mathematical model used to describe the growth of plants and other organic structures through recursive string rewriting.
 
-![Demo](/src/assets/images/demo.gif)
+![Demo](/assets/demo.gif)
 
 ## What are L-systems?
 
@@ -43,8 +43,8 @@ pip install -r requirements.txt
 
 ## Documentation
 
-For more information, check out the [Conway's Game of Life Documentation](/docs/LSystems.md)
+For more information, check out the [Conway's Game of Life Documentation](/assets/LSystems.md)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
