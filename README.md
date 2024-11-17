@@ -27,7 +27,8 @@ Each iteration or generation of the system produces a new string based on the pr
     7. **Wings**
     8. **Snowflake**
     9. **Tentacle Fractal**
-    some of the LSystems are taken from [here](https://github.com/Epholys/procgen/tree/master)
+
+some of the LSystems are taken from [here](https://github.com/Epholys/procgen/tree/master)
 
 ## Prerequisites
 
