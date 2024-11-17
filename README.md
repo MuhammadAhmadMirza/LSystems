@@ -1,6 +1,7 @@
 # L-systems in Python
 
-This project provides an implementation of **L-systems** (Lindenmayer systems) using **Python** and **Pygame**. L-systems are a mathematical model used to describe the growth of plants and other organic structures through recursive string rewriting.
+This project provides an implementation of **L-systems** (Lindenmayer systems) using **Python** and **Pygame**. 
+L-systems are a mathematical model used to describe the growth of plants and other organic structures through recursive string rewriting.
 
 ![Demo](/assets/demo.gif)
 
@@ -26,6 +27,7 @@ Each iteration or generation of the system produces a new string based on the pr
     7. **Wings**
     8. **Snowflake**
     9. **Tentacle Fractal**
+    some of the LSystems are taken from [here](https://github.com/Epholys/procgen/tree/master)
 
 ## Prerequisites
 
