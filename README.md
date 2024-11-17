@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## Documentation
 
-For more information, check out the [Conway's Game of Life Documentation](/assets/LSystems.md)
+For more information, check out the [Lindenmeyer Systems doc](/assets/LSystems.md)
 
 ## License
 
